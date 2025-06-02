@@ -9,22 +9,16 @@ draft: false
   ===============================-->
 
 <!--   1. A very small profile image (use HTML to set width) -->
-<p align="center">
-{{ with .Resources.GetMatch "profile.jpg" }}
-  <img 
-    src="{{ .RelPermalink }}" 
-    width="120" 
-    style="border-radius:50%;" 
-    alt="Profile Photo" 
-  />
-{{ end }}
-</p>
+
 # Sophie Shin
 
 **Northwestern University** &middot; Computer Science & Cognitive Science ‘27  
 seungyeonshin2027@u.northwestern.edu &middot; [GitHub ↗](https://github.com/syshin402) &middot; [LinkedIn ↗](https://linkedin.com/in/seungyeon-shin-7aa302211/)  
 
 ---
+![Profile Photo](/images/website_image.jpg?height=50px)
+
+
 
 ## 1  About Me
 
