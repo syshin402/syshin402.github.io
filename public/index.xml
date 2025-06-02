@@ -6,7 +6,14 @@
     <description>Recent content in Home on Sophie Shin – Resume &amp; Portfolio</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 03:26:26 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 02 Jun 2025 03:26:26 -0500</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;sophie-shins-projects&#34;&gt;Sophie Shin’s Projects&lt;/h2&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -10,9 +10,15 @@ draft: false
 
 <!--   1. A very small profile image (use HTML to set width) -->
 <p align="center">
-  <img src="/images/profile.jpg" alt="Profile Photo" width="120" style="border-radius: 50%;" />
+{{ with .Resources.GetMatch "profile.jpg" }}
+  <img 
+    src="{{ .RelPermalink }}" 
+    width="120" 
+    style="border-radius:50%;" 
+    alt="Profile Photo" 
+  />
+{{ end }}
 </p>
-
 # Sophie Shin
 
 **Northwestern University** &middot; Computer Science & Cognitive Science ‘27  
