@@ -46,9 +46,10 @@ I’m a sophomore at **Northwestern University** double‐majoring in Computer S
 - Designed Figma-based UI/UX prototypes, embedding accessibility best practices for user accessibility 
 
 ### Undergraduate Research Assistant – Northwestern Cognitive Lab     (Apr 2024 – Present)  
-- Designed and deployed Qualtrics surveys for an interactive infographics experiment on spatial memory encoding.  
-- Assisted with IRB documentation, participant recruitment, and video‐based behavioral coding.  
-- Co‐authored a poster titled “Interactive Infographics and Spatial Recall” for Northwestern’s Undergraduate Research Expo.  
+- Programmed experiments on attention and motion tracking using Python, Pygame, and Imageio.   
+- Managed recruitment and data from 50+ participants; conducted statistical analysis using R and Tableau. 
+- Designed and deployed Qualtrics surveys for an interactive infographics experiment on multiple object tracking
+
 
 ---
 
