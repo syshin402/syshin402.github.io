@@ -45,7 +45,7 @@ I’m a sophomore at **Northwestern University** double‐majoring in Computer S
 - Designed an authentication system to enable dynamic content editing by verified admins.   
 - Designed Figma-based UI/UX prototypes, embedding accessibility best practices for user accessibility 
 
-### Undergraduate Research Assistant – Northwestern Cognitive Lab     (Apr 2024 – Present)  
+### Undergraduate Research Assistant – Northwestern Visual Thinking Lab     (Apr 2024 – Present)  
 - Programmed experiments on attention and motion tracking using Python, Pygame, and Imageio.   
 - Managed recruitment and data from 50+ participants; conducted statistical analysis using R and Tableau. 
 - Designed and deployed Qualtrics surveys for an interactive infographics experiment on multiple object tracking
